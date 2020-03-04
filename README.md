@@ -14,6 +14,7 @@ call.
 | [Perl 6](https://perl6.org)      | ✓     | ✓                             | ?                        | ✓     | ✓     |  ✓     |
 | [Scala](https://scala-lang.org/) | ✓     | ✓ <sup id="a1">[1](#f1)</sup> | ✓ <sup>[1](#f1)</sup>    | ?     | ✓     |  ✓     |
 | [Kotlin](https://kotlinlang.org/)| ✓     | ✓ <sup>[1](#f1)</sup>         | ✓ <sup>[1](#f1)</sup>    | ?     | ✓     |  ✓     |
+| [Ruby](https://ruby-lang.org/)| ✓     | ✓     | ✓     | ?     | ?     |  [✓](https://ruby-doc.org/stdlib-2.4.0/libdoc/unicode_normalize/rdoc/String.html)     |
 
 
 
